@@ -1,2 +1,3 @@
 # Cocktails
- Site de coquetelaria
+Site de coquetelaria
+Gastronomia: Drinks alcoólicos e coquetéis não alcoólicos
